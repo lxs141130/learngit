@@ -1,2 +1,1 @@
-user/bin/env.
-coding:utf-8.
+utf-8
