@@ -1,2 +1,2 @@
-utf-8.
-bin
+user
+utf-8
